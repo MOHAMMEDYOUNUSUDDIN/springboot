@@ -1,4 +1,4 @@
-☕ Spring Boot Backend Development . 
+☕ Spring Boot Backend Development
 
 A personal Spring Boot learning repository documenting my journey from Spring Boot fundamentals to building REST APIs and database-backed backend applications.
 
