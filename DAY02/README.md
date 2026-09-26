@@ -1,4 +1,4 @@
-Day 02 - Dependency Injection + Conditional Bean Loading
+Day 02 - Dependency Injection + Conditional Bean Loading. 
 📌 What I Learned
 
 Today I learned how Spring Boot automatically injects objects (Beans) using Constructor Injection and how to load different implementations based on application properties using @ConditionalOnProperty.
